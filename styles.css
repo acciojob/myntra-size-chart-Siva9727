@@ -1,5 +1,5 @@
 
 /* Your CSS Code here. */
-td,th,tr,thead,tbody,table{
+thead,tbody,table,td,th{
     border: 1px solid black;
 }
